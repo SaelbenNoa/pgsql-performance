@@ -33,3 +33,7 @@ Manual
 **databaseAnalytics**
 
     Shows the index and cache hit rate averages for the table
+
+Reference read
+-----------
+http://www.craigkerstiens.com/2012/10/01/understanding-postgres-performance/
