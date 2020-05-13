@@ -16,20 +16,20 @@ Manual
 
 **indexAccess**
 
-    blah blah
+    This shows all of the disk i/o for every index on each table
 
 **indexIO**
 
-    blah blah
+    Shows disk I/O for each index
 
 **tableAccess**
 
-    blah blah
+    Shows general acces statistics for table
 
 **tableIO**
 
-    blah blah
+    Shows caching and I/O stats for table
 
 **databaseAnalytics**
 
-    blah blah
+    Shows the index and cache hit rate averages for the table
